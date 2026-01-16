@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 ## Tech Stack
 
 **Languages**
-- Python
-- HTML
+-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 **Data & Analysis**
-- Pandas
-- Matplotlib
-- mplfinance
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![mplfinance](https://img.shields.io/badge/mplfinance-000000?style=flat&logo=python&logoColor=white)
 
 **Market Data & Trading**
-- yfinance
-- MetaTrader5 (MT5 API)
+![yfinance](https://img.shields.io/badge/yfinance-003366?style=flat&logo=python&logoColor=white)
+![MetaTrader5](https://img.shields.io/badge/MetaTrader5-0073E6?style=flat&logo=metatrader&logoColor=white)
