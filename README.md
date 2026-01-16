@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 ### Design
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=flat&logo=googlesites&logoColor=white)
+
 
 ### Analytics
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-F9AB00?style=flat&logo=googleanalytics&logoColor=white)
