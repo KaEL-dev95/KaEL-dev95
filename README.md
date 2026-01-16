@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Tech Stack
+
+**Languages**
+- Python
+- HTML
+
+**Data & Analysis**
+- Pandas
+- Matplotlib
+- mplfinance
+
+**Market Data & Trading**
+- yfinance
+- MetaTrader5 (MT5 API)
