@@ -16,15 +16,24 @@ Here are some ideas to get you started:
 -->
 ## Tech Stack
 
-**Languages**
--![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-**Data & Analysis**
+### Data / Trading Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![mplfinance](https://img.shields.io/badge/mplfinance-000000?style=flat&logo=python&logoColor=white)
-
-**Market Data & Trading**
 ![yfinance](https://img.shields.io/badge/yfinance-003366?style=flat&logo=python&logoColor=white)
 ![MetaTrader5](https://img.shields.io/badge/MetaTrader5-0073E6?style=flat&logo=metatrader&logoColor=white)
+
+### Video Editing
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat&logo=davinciresolve&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-FFFFFF?style=flat&logo=capcut&logoColor=black)
+
+### Design
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+### Analytics
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-F9AB00?style=flat&logo=googleanalytics&logoColor=white)
+
