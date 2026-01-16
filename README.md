@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 
 ### Analytics
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-F9AB00?style=flat&logo=googleanalytics&logoColor=white)
+![tawk.to](https://img.shields.io/badge/tawk.to-03A84E?style=flat&logo=tawkto&logoColor=white)
+
 
