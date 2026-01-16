@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![mplfinance](https://img.shields.io/badge/mplfinance-000000?style=flat&logo=python&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-003366?style=flat&logo=python&logoColor=white)
 ![MetaTrader5](https://img.shields.io/badge/MetaTrader5-0073E6?style=flat&logo=metatrader&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 
 ### Video Editing
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat&logo=davinciresolve&logoColor=white)
